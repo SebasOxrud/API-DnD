@@ -3,4 +3,7 @@
 GET {{API_D_D_HostAddress}}/weatherforecast/
 Accept: application/json
 
+GET {{API_D_D_HostAddress}}/Criatura/
+Accept: application/json
+
 ###
